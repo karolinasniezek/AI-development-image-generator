@@ -1,2 +1,2 @@
 # AI image generator
-Super simple AI image generator in javaScript
+Super simple AI image generator in javaScript | OpenAI API
